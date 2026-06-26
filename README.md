@@ -12,4 +12,4 @@
 
 
 ### Projects
-![glakulin_nuxt](https://github-readme-stats.vercel.app/api/pin/?username=glakulin&repo=glakulin_nuxt&title_color=9500FF&bg_color=000000&text_color=FFFFFF&icon_color=9500FF)
+[![glakulin_nuxt](https://github-readme-stats.vercel.app/api/pin/?username=glakulin&repo=glakulin_nuxt&title_color=9500FF&bg_color=000000&text_color=FFFFFF&icon_color=9500FF)](https://github.com/glakulin/glakulin_nuxt)
