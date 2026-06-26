@@ -7,6 +7,9 @@
 ![Frameworks](https://skillicons.dev/icons?i=nuxtjs)
 #### Services
 ![Services](https://skillicons.dev/icons?i=vercel,supabase)
-
-### Current setup
+#### Current setup
 ![Setup](https://skillicons.dev/icons?i=windows,figma,vscode,bun)
+
+
+### Projects
+![glakulin_nuxt](https://github-readme-stats.vercel.app/api/pin/?username=glakulin&repo=glakulin_nuxt&title_color=9500FF&bg_color=000000&text_color=FFFFFF&icon_color=9500FF)
