@@ -7,7 +7,7 @@
 ![Frameworks](https://skillicons.dev/icons?i=nuxtjs)
 #### Services
 ![Services](https://skillicons.dev/icons?i=vercel,supabase)
-#### Current setup
+#### Software
 ![Setup](https://skillicons.dev/icons?i=windows,figma,vscode,bun)
 
 
