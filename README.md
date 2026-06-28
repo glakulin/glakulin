@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glakulin&layout=compact&exclude_repo=glakulin,vyaktask&title_color=E4BFFF&bg_color=000000&text_color=FFFFFF&icon_color=E4BFFF&border_radius=16)
+
 ### Skills
 #### Languages
 ![Languages](https://skillicons.dev/icons?i=html,sass,ts,vue)
@@ -20,4 +22,4 @@
 
 
 ### Projects
-[![glakulin_nuxt](https://github-readme-stats.vercel.app/api/pin/?username=glakulin&repo=glakulin_nuxt&title_color=9500FF&bg_color=000000&text_color=FFFFFF&icon_color=9500FF)](https://github.com/glakulin/glakulin_nuxt)
+[![glakulin_nuxt](https://github-readme-stats.vercel.app/api/pin/?username=glakulin&repo=glakulin_nuxt&title_color=E4BFFF&bg_color=000000&text_color=FFFFFF&icon_color=E4BFFF&border_radius=16)](https://github.com/glakulin/glakulin_nuxt)
