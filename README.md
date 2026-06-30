@@ -1,5 +1,5 @@
 # Glakulin
-## Daniel Vyakulin
+Daniel Vyakulin
 
 
 ### Skills
