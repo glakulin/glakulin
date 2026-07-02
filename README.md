@@ -1,6 +1,7 @@
 # Glakulin
 Daniel Vyakulin
 
+![Metrics](/github-metrics.svg)
 
 ### Skills
 #### Hardware
