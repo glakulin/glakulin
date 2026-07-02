@@ -1,7 +1,5 @@
 name: Publish examples (presets)
-on:
-  schedule:
-    - cron: "0 16 1/2 * *"
+on: push
 jobs:
   label:
     name: Label issue and pull requests
