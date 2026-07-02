@@ -1,10 +1,9 @@
 # Glakulin
 Daniel Vyakulin
 
-## Stats
-![Base](/m-base.svg)
+### Stats
 ![Languages](/m-languages.svg)
-![Calendar](/m-calendar.svg)
+
 
 ### Skills
 #### Hardware
@@ -22,3 +21,7 @@ Daniel Vyakulin
 + Screens — (1920x1080)*2
 + Microphone — Fifine Ampligame A6V
 + Webcamera — Fifine K420
+
+
+### Commit History
+![Calendar](/m-calendar.svg)
