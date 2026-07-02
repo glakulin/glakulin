@@ -2,7 +2,9 @@
 Daniel Vyakulin
 
 ## Stats
-![Metrics](/github-metrics.svg)
+![Base](/m-base.svg)
+![Languages](/m-languages.svg)
+![Calendar](/m-calendar.svg)
 
 ### Skills
 #### Hardware
