@@ -23,7 +23,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: "header"
           filename: repo_glakulin_nuxt.svg
           template: repository
           user: glakulin
