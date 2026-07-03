@@ -21,7 +21,3 @@ Daniel Vyakulin
 + Screens — (1920x1080)*2
 + Microphone — Fifine Ampligame A6V
 + Webcamera — Fifine K420
-
-
-### Commit History
-![Calendar](/m-calendar.svg)
