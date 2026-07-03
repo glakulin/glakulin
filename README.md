@@ -2,10 +2,22 @@
 Daniel Vyakulin
 
 ### Stats
-![Languages](/languages.svg)
+![languages_stats](/languages.svg)
 
 
 ### Skills
+#### Languages
+![languages](https://skillicons.dev/icons?i=html,css,js,ts)
+
+#### Frameworks
+![frameworks](https://skillicons.dev/icons?i=vue,nuxt)
+
+#### Services
+![services](https://skillicons.dev/icons?i=vercel)
+
+#### Software
+![software](https://skillicons.dev/icons?i=windows,vscode,bun,figma)
+
 #### Hardware
 ##### Base
 + ASUS P8H77-M LE
