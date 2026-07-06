@@ -15,7 +15,8 @@ Daniel Vyakulin
 #### Services
 ![services](https://skillicons.dev/icons?i=vercel)
 
-#### Software
+
+### Software
 ![software](https://skillicons.dev/icons?i=windows,vscode,bun,figma)
 
 
