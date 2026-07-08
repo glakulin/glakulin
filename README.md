@@ -17,7 +17,7 @@ Daniel Vyakulin
 
 
 ### Software
-![software](https://skillicons.dev/icons?i=windows,vscode,bun,figma)
+![software](https://skillicons.dev/icons?i=windows,vscode,bun)
 
 
 ### Hardware
