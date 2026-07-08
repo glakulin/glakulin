@@ -31,7 +31,7 @@ Daniel Vyakulin
 1. HDD 250GB
 2. HDD 80GB
 
-##### Periphery
+#### Periphery
 + Screens — (1920x1080)*2
 + Microphone — Fifine Ampligame A6V
 + Webcamera — Fifine K420
