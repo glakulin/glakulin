@@ -13,7 +13,7 @@ Daniel Vyakulin
 ![frameworks](https://skillicons.dev/icons?i=vue,nuxt)
 
 #### Services
-![services](https://skillicons.dev/icons?i=vercel)
+![services](https://skillicons.dev/icons?i=vercel,supabase)
 
 
 ### Software
