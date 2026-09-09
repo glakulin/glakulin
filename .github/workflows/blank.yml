@@ -24,7 +24,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: "header"
-          filename: repo_glakulin_nuxt.svg
+          filename: repo_glinks.svg
           template: repository
           user: glakulin
-          repo: glakulin_nuxt
+          repo: glinks
