@@ -11,4 +11,4 @@ Daniel Vyakulin
 
 
 ### Projects
-[![](/repo_.svg)](https://github.com/glakulin/)
+[![](/repo_glinks.svg)](https://github.com/glakulin/glinks)
