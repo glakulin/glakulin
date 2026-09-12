@@ -28,3 +28,12 @@ jobs:
           template: repository
           user: glakulin
           repo: glinks
+      - name: template
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: "header"
+          filename: repo_glakulin_next.svg
+          template: repository
+          user: glakulin
+          repo: glakulin_next    
