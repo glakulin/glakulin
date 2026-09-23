@@ -28,6 +28,7 @@ jobs:
           template: repository
           user: glakulin
           repo: glinks
+          plugin_introduction: yes
       - name: template2
         uses: lowlighter/metrics@latest
         with:
@@ -37,3 +38,4 @@ jobs:
           template: repository
           user: glakulin
           repo: glak_tspk_bot
+          plugin_introduction: yes
