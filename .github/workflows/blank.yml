@@ -29,6 +29,9 @@ jobs:
           user: glakulin
           repo: glinks
           plugin_introduction: yes
+          extras_css: |
+            .contributions { display: none !important; }
+            .environments { display: none !important; }
       - name: template2
         uses: lowlighter/metrics@latest
         with:
@@ -39,3 +42,6 @@ jobs:
           user: glakulin
           repo: glak_tspk_bot
           plugin_introduction: yes
+          extras_css: |
+            .contributions { display: none !important; }
+            .environments { display: none !important; }
