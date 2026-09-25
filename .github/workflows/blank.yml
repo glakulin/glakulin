@@ -32,6 +32,7 @@ jobs:
           plugin_introduction: yes
           extras_css: |
             .calendar { display: none !important; }
+            .field:has(svg > path[d^="M2.5 3.5c0-.133"]) { display: none !important; }
 
       - name: glak_tspk_bot
         uses: lowlighter/metrics@latest
@@ -45,3 +46,4 @@ jobs:
           plugin_introduction: yes
           extras_css: |
             .calendar { display: none !important; }
+            .field:has(svg > path[d^="M2.5 3.5c0-.133"]) { display: none !important; }
