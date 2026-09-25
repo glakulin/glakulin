@@ -19,7 +19,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines
-      - name: template1
+          
+      - name: glinks
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -30,9 +31,9 @@ jobs:
           repo: glinks
           plugin_introduction: yes
           extras_css: |
-            .contributions { display: none !important; }
-            .environments { display: none !important; }
-      - name: template2
+            .calendar { display: none !important; }
+
+      - name: glak_tspk_bot
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -43,5 +44,4 @@ jobs:
           repo: glak_tspk_bot
           plugin_introduction: yes
           extras_css: |
-            .contributions { display: none !important; }
-            .environments { display: none !important; }
+            .calendar { display: none !important; }
