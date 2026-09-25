@@ -18,6 +18,7 @@ Daniel Vyakulin
 #### Software
 ![](https://skillicons.dev/icons?i=figma,vscodium,obsidian,bun)
 
+
 ### Projects
 [![](/repo_glinks.svg)](https://github.com/glakulin/glinks)
 [![](/repo_glak_tspk_bot.svg)](https://github.com/glakulin/glak_tspk_bot)
