@@ -27,4 +27,4 @@ jobs:
           filename: repos.svg
           config_display: columns
           plugin_repositories: yes
-          plugin_repositories_featured: glakulin/glinks, glakulin/glak_tspk_bot
+          plugin_repositories_featured: glakulin/glak_next, glakulin/glak_tspk_bot
