@@ -1,6 +1,8 @@
 # Glakulin
 Daniel Vyakulin
 
+[Donate](https://donatex.gg/donate/glakulin)
+
 ### Stats
 ![languages_stats](/languages.svg)
 
